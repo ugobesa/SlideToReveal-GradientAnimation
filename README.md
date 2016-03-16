@@ -1,0 +1,1 @@
+# SlideToReveal-GradientAnimation
